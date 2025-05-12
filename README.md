@@ -43,9 +43,6 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 ### 🔸 Maze Ransomware Technical Analysis
 *Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.*
 
-### 🔸 STIG and Vulnerability Automation
-*Automated compliance tracking and vulnerability assessment for 500+ systems using Nessus and Trellix ENS, supporting mission-critical Navy systems.*
-
 ---
 
 ## 🧑‍🏫 Teaching & Leadership
