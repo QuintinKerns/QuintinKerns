@@ -71,5 +71,9 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 ## 🗂️ Repositories
 
+WIP
+
+---
+
 Thank you for visiting my portfolio. Feel free to connect or reach out!
 
