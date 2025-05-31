@@ -30,20 +30,20 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 Practical technical projects accumulated over the years that showcase my skills in cybersecurity, documentation, and hands-on testing through reports, assessments, and research.
 
-### 🔍 Vulnerability Scanning Lab:
+### 🔍 Vulnerability Scanning Lab (2025):
 This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
 
 [Vulnerability Scanning Lab Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf)
 
-### 🧑‍💻 HackTheBox "EscapeTwo" Penetration Testing Report:
+### 🧑‍💻 HackTheBox "EscapeTwo" Penetration Testing Report (2025):
 This project involved an internal penetration test of the HackTheBox “EscapeTwo” machine using a low-privilege AD account. It demonstrates enumeration, SMB exploitation, MSSQL abuse, and privilege escalation to full system access. The report highlights key findings like plaintext credentials and weak authentication controls. It also served as a way to showcase my technical writing and documentation skills through a structured, professional-style findings report.
 
 ["EscapeTwo" Pentesting Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
 
-### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening:
+### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening (2023):
 Three-phase team capstone project that involve hardening a RHEL VM, performing peer vulnerability assessments, and documenting the process for a final presentation. While my teammates focused on VM hardening following CIS benchmarks and documentation, I handled the peer assessment portion by scanning another team's VM using Nmap, Nessus, and OWASP Zap. Using my discoveries, I informed the other team of their security gaps as well as documented them for my team to include in the presentation.
 
-### 📖 Maze Ransomware Technical Analysis:
+### 📖 Maze Ransomware Technical Analysis (2021):
 Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.
 *Kerns, Q., Payne, B., Abegaz, T. (2021). Double-Extortion Ransomware: A Technical Analysis of Maze’s Capabilities Proceedings of the Future Technologies Conference (FTC)*
 
