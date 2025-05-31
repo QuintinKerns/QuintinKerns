@@ -30,6 +30,7 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 Vulnerability Scanning Lab:
 This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
+
 (https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf)
 
 ---
