@@ -34,13 +34,12 @@ This project documents a hands-on vulnerability assessment lab using the Tenable
 [Vulnerability Scanning Lab Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf)
 
 ### 🧑‍💻 HackTheBox "EscapeTwo" Penetration Testing Report:
-
 This project involved an internal penetration test of the HackTheBox “EscapeTwo” machine using a low-privilege AD account. It demonstrates enumeration, SMB exploitation, MSSQL abuse, and privilege escalation to full system access. The report highlights key findings like plaintext credentials and weak authentication controls. It also served as a way to showcase my technical writing and documentation skills through a structured, professional-style findings report.
 
 ["EscapeTwo" Pentesting Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
 
 ### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening:
-Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.
+Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and CIS benchmarking.
 
 ### 📖 Maze Ransomware Technical Analysis:
 Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.
