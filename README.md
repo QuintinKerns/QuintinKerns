@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio. I'm a cybersecurity professional with a strong f
 
 ## 🔐 About Me
 
-I bring hands-on experience from the United States Navy, Deloitte, and several cybersecurity-focused internships, with proven success in vulnerability management, SOC operations, and penetration testing. I thrive in dynamic environments where security posture, threat intelligence, and compliance intersect.
+I bring hands-on experience from the United States Navy, Deloitte, and several cybersecurity-focused internships, with proven success in vulnerability management, SOC operations, and penetration testing. I thrive in dynamic environments where security posture, collaboration, and professional development intersect.
 
 - **Location:** Atlanta, GA
 - **Certifications:** AWS Cloud Practitioner, CompTIA Security+
