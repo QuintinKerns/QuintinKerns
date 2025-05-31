@@ -35,7 +35,7 @@ This project documents a hands-on vulnerability assessment lab using the Tenable
 
 ### 🧑‍💻 HackTheBox "EscapeTwo" Penetration Testing Report:
 
-This project simulates an internal penetration test against the HackTheBox “EscapeTwo” machine. Using a provided low-privilege Active Directory account, the test progresses through enumeration, SMB share exploitation, MSSQL database abuse, and privilege escalation. The report documents the discovery of plaintext credentials, unrestricted logon attempts, and insecure configurations. Tools such as Nmap, smbclient, evil-winrm, and WinPEAS were used to identify and exploit weaknesses, ultimately achieving full system access and capturing the user flag.
+This project involved an internal penetration test of the HackTheBox “EscapeTwo” machine using a low-privilege AD account. It demonstrates enumeration, SMB exploitation, MSSQL abuse, and privilege escalation to full system access. The report highlights key findings like plaintext credentials and weak authentication controls. It also served as a way to showcase my technical writing and documentation skills through a structured, professional-style findings report.
 
 ["EscapeTwo" Pentesting Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
 
