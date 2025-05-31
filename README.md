@@ -37,7 +37,7 @@ This project documents a hands-on vulnerability assessment lab using the Tenable
 
 This project simulates an internal penetration test against the HackTheBox “EscapeTwo” machine. Using a provided low-privilege Active Directory account, the test progresses through enumeration, SMB share exploitation, MSSQL database abuse, and privilege escalation. The report documents the discovery of plaintext credentials, unrestricted logon attempts, and insecure configurations. Tools such as Nmap, smbclient, evil-winrm, and WinPEAS were used to identify and exploit weaknesses, ultimately achieving full system access and capturing the user flag.
 
-["EscapeTwo" Pentesting Report](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
+["EscapeTwo" Pentesting Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
 
 ### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening:
 Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.
