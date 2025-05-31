@@ -39,7 +39,7 @@ This project involved an internal penetration test of the HackTheBox “EscapeTw
 ["EscapeTwo" Pentesting Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Hack%20The%20Box%20-%20Penetration%20Test%20Findings%20Report.pdf)
 
 ### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening:
-3-phase team capstone project that involve hardening a RHEL VM, performing peer vulnerability assessments, and documenting the process for a final presentation. While my teammates focused on VM hardening following CIS benchmarks and documentation, I handled the peer assessment portion by scanning another team's VM using Nmap, Nessus, and OWASP Zap. Using my discoveries, I informed the other team of their security gaps as well as documented them for my team to include in the presentation.
+Three-phase team capstone project that involve hardening a RHEL VM, performing peer vulnerability assessments, and documenting the process for a final presentation. While my teammates focused on VM hardening following CIS benchmarks and documentation, I handled the peer assessment portion by scanning another team's VM using Nmap, Nessus, and OWASP Zap. Using my discoveries, I informed the other team of their security gaps as well as documented them for my team to include in the presentation.
 
 ### 📖 Maze Ransomware Technical Analysis:
 Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.
