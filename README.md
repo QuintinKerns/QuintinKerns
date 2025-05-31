@@ -70,8 +70,8 @@ Outside of school and work I still love spending my time learning more about cyb
 ## 🧑‍🏫 Teaching & Leadership
 
 - Mentors peers in cybersecurity skills and interview/certification preparation to support their job readiness.
-- Prepared training material for and mentored 100+ junior analysts for SOC roles
-- Delivered monthly vulnerability reports and incident reponse reports
+- Prepared training material for and mentored 100+ junior analysts for SOC roles.
+- Presented monthly vulnerability reports and incident reponse reports to leadership.
 
 ---
 
