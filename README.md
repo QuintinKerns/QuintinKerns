@@ -36,7 +36,7 @@ https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%
 ### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening
 Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.
 
-### 📚 Maze Ransomware Technical Analysis
+### 📖 Maze Ransomware Technical Analysis
 Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.
 *Kerns, Q., Payne, B., Abegaz, T. (2021). Double-Extortion Ransomware: A Technical Analysis of Maze’s Capabilities Proceedings of the Future Technologies Conference (FTC)*
 
@@ -53,6 +53,7 @@ Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using
 
 ## 📚 Continuing Education
 
+Outside of school and work I still love spending my time learning more about cyber. Here's a few things I've worked on:
 - Burp Suite Certified Practitioner
 - HackTheBox Penetration Testing Job Path
 - TryHackMe Jr. Penetration Testing Track
