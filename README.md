@@ -33,6 +33,13 @@ This project documents a hands-on vulnerability assessment lab using the Tenable
 
 https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf
 
+### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening
+*Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.*
+
+### 📚 Maze Ransomware Technical Analysis
+*Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.*
+*Kerns, Q., Payne, B., Abegaz, T. (2021). Double-Extortion Ransomware: A Technical Analysis of Maze’s Capabilities Proceedings of the Future Technologies Conference (FTC)*
+
 ---
 
 ## 🧠 Certifications & Education
@@ -41,16 +48,6 @@ https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%
 - **CompTIA Security+ (SY0-601)** (2023-2026)
 - **M.S. in Cybersecurity**, Kennesaw State University
 - **B.S. in Computer Science**, University of North Georgia (Minor in Cybersecurity, NSA NCAE-C)
-
----
-
-## 🧪 Featured Projects
-
-### 🔸 Capstone: Red Hat Enterprise Linux 8 Hardening
-*Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.*
-
-### 🔸 Maze Ransomware Technical Analysis
-*Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.*
 
 ---
 
