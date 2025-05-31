@@ -28,6 +28,8 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 ## 🗂️ Projects
 
+Practical technical projects accumulated over the years that showcase my skills in cybersecurity, documentation, and hands-on testing through reports, assessments, and research.
+
 ### 🔍 Vulnerability Scanning Lab:
 This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
 
