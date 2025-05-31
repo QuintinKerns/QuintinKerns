@@ -28,7 +28,7 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 ## 🗂️ Projects
 
-### Vulnerability Scanning Lab:
+### 🔍 Vulnerability Scanning Lab:
 This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
 
 https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf
@@ -54,19 +54,19 @@ https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%
 
 ---
 
-## 🧑‍🏫 Teaching & Leadership
-
-- Led purple team exercises, training 150+ SOC analysts on adversarial simulations
-- Mentored 100+ junior analysts for Navy SOC roles, achieving a 90% pass rate on certification exams
-- Delivered bi-weekly reports to senior leadership, streamlining remediation workflows and increasing efficiency by 80%
-
----
-
 ## 📚 Continuing Education
 
 - Burp Suite Certified Practitioner
 - HackTheBox Penetration Testing Job Path
 - TryHackMe Jr. Penetration Testing Track
+
+---
+
+## 🧑‍🏫 Teaching & Leadership
+
+- Mentors peers in cybersecurity skills and interview/certification preparation to support their job readiness.
+- Prepared training material for and mentored 100+ junior analysts for SOC roles
+- Delivered monthly vulnerability reports and incident reponse reports
 
 ---
 
