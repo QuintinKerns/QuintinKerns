@@ -31,7 +31,7 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 ### 🔍 Vulnerability Scanning Lab:
 This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
 
-https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf
+[Vulnerability Scanning Lab Report (PDF)](https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf)
 
 ### 🛡️ M.S. Capstone: Red Hat Enterprise Linux 8 Hardening
 Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, and OWASP Zap. Focused on system hardening and security benchmarking.
@@ -77,4 +77,5 @@ Outside of school and work I still love spending my time learning more about cyb
 ---
 
 Thank you for visiting my portfolio. Feel free to connect or reach out!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-QuintinKerns-blue)](https://linkedin.com/in/quintinkerns)
