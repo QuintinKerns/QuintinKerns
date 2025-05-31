@@ -77,4 +77,4 @@ Outside of school and work I still love spending my time learning more about cyb
 ---
 
 Thank you for visiting my portfolio. Feel free to connect or reach out!
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-QuintinKerns-blue)](https://linkedin.com/in/quintinkerns)
