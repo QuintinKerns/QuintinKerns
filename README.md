@@ -26,6 +26,14 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 
 ---
 
+## 🗂️ Projects
+
+Vulnerability Scanning Lab:
+This project documents a hands-on vulnerability assessment lab using the Tenable Nessus scanner on various virtual machines, including Ubuntu, Kali, Windows Server 2019, and Metasploitable 2. It highlights both credentialed and uncredentialed scanning techniques, vulnerability identification, exploitation examples, and remediation strategies. The lab reinforces practical skills in vulnerability management and deepens understanding of attack methods and defenses.
+(https://github.com/QuintinKerns/QuintinKerns/blob/main/Vulnerability%20Scanning%20Lab.pdf)
+
+---
+
 ## 🧠 Certifications & Education
 
 - **AWS Certified Cloud Practitioner** (2025-2028)
@@ -66,12 +74,6 @@ I bring hands-on experience from the United States Navy, Deloitte, and several c
 - Attended **Hacker Halted (2024)**: Focused on AI malware analysis and IoT security
 - NSA Codebreaker Challenge (Top contributor, UNG placed 1st nationally)
 - BSidesAugusta and CyberHawks Ethical Hacking Club member
-
----
-
-## 🗂️ Repositories
-
-WIP
 
 ---
 
