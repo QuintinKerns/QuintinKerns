@@ -46,6 +46,8 @@ Performed SCAP scanning and peer vulnerability assessments using Nmap, Nessus, a
 Reverse engineered the Maze DLL and analyzed it in a sandboxed environment using Flare VM. Findings published in the 2021 Future Technologies Conference.
 *Kerns, Q., Payne, B., Abegaz, T. (2021). Double-Extortion Ransomware: A Technical Analysis of Maze’s Capabilities Proceedings of the Future Technologies Conference (FTC)*
 
+[Double-Extortion Ransomware: A Technical Analysis of Maze Ransomware (ResearchGate)](https://www.researchgate.net/publication/355545158_Double-Extortion_Ransomware_A_Technical_Analysis_of_Maze_Ransomware)
+
 ---
 
 ## 🧠 Certifications & Education
