@@ -1,6 +1,6 @@
 # Quintin Kerns — Cybersecurity Portfolio
 
-Welcome to my GitHub portfolio. I'm a cybersecurity professional with a strong foundation in vulnerability assessment, incident response, and secure systems development, backed by real-world experience in both government and corporate environments. This portfolio showcases select projects and content that reflect my commitment to advancing cybersecurity knowledge, defense capabilities, and operational excellence.
+Welcome to my GitHub portfolio. I'm a cybersecurity professional with a strong foundation in vulnerability assessment, incident response, and compliance, backed by real-world experience in both government and corporate environments. This portfolio showcases select projects and content that reflect my commitment to advancing cybersecurity knowledge, defense capabilities, and operational excellence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-QuintinKerns-blue)](https://linkedin.com/in/quintinkerns)
 
